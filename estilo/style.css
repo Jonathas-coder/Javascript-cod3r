@@ -1,0 +1,12 @@
+body{
+    background-color: lightseagreen;
+    font-size: 2rem;
+}
+
+ul{
+    color: navy;
+    border-radius: 40px;
+    padding: 20px;
+    margin: auto;
+    display: absolute;
+}
